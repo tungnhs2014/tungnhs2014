@@ -17,9 +17,9 @@
 
 ## 👨‍💻 About Me
 
-I am **Nguyen Huu Son Tung**, an **Embedded Linux** and **Automotive Engineer** with a passion for crafting innovative, high-performance solutions for embedded systems.
+I am **Nguyen Huu Son Tung**, an **System Software Development (Embedded, Linux)** and **Automotive Engineer** with a passion for crafting innovative, high-performance solutions for embedded systems.
 
-- 🌱 Currently focused on **System Software Development** in **Linux** and **Embedded Systems**.
+- 🌱 Currently focused on **Embedded Linux** and **Embedded Systems**.
 - 💬 Feel free to ask me about **C programming**, **Linux systems**, and **automotive technologies**.
 - ⚡ Fun fact: I enjoy building efficient embedded systems that solve real-world challenges!
 

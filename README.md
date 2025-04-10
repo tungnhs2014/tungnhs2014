@@ -25,14 +25,6 @@ I am **Nguyen Huu Son Tung**, an **Embedded Linux** and **Automotive Engineer** 
 
 ---
 
-### 🚀 Current Projects
-
-- **[Design and Development of Fish Robots](https://github.com/tungnhs2014/Design-and-Development-of-Fish-Robots)** – An HTML-based project for robotic design.
-- **[Linux Programming 2025 DevLinux](https://github.com/tungnhs2014/Linux-Programming-2025-DevLinux)** – A comprehensive repository to dive deep into Linux programming (C).
-- **[28Tech C++ Advanced](https://github.com/tungnhs2014/28Tech_C_Plus-Plus_Advanced)** – Advanced C++ concepts and practices.
-
----
-
 ### 📈 GitHub Stats
 
 <!-- GitHub Stats Section -->
@@ -59,8 +51,8 @@ I am **Nguyen Huu Son Tung**, an **Embedded Linux** and **Automotive Engineer** 
 ### 📬 Let's Connect
 
 Feel free to connect with me through:
-- **LinkedIn**: [Tung Nguyen LinkedIn](https://www.linkedin.com/in/tungnguyen)
-- **Email**: [tungnguyen@example.com](mailto:tungnguyen@example.com)
+- **LinkedIn**: [Tung Nguyen](https://www.linkedin.com/in/tung-nguyen-nhs2014/)
+- **Email**: [Nguyen Huu Son Tung](mailto:tungnhs2014@egmail.com)
 
 ---
 

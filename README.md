@@ -51,7 +51,7 @@ I am **Nguyen Huu Son Tung**, an **System Software Development (Embedded, Linux)
 ### 📬 Let's Connect
 
 Feel free to connect with me through:
-- **LinkedIn**: [Tung Nguyen](https://www.linkedin.com/in/tung-nguyen-nhs2014/)
+- **LinkedIn**: [Nguyen Huu Son Tung](https://www.linkedin.com/in/tung-nguyen-nhs2014/)
 - **Email**: [Nguyen Huu Son Tung](mailto:tungnhs2014@egmail.com)
 
 ---
